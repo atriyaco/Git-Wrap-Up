@@ -1,0 +1,1 @@
+this is a simple static site generated for git wrap-up.
